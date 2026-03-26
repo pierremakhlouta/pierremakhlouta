@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Pierre 👋
 
-<!--
-**pierremakhlouta/pierremakhlouta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at York University  
 
-Here are some ideas to get you started:
+## 💻 Interests
+- Cloud Computing
+- DevOps
+- Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- Python
+- Linux & Bash
+- Git & GitHub
+
+## 🛠️ Skills
+- Java
+- Python
+- Git
+- Linux (beginner)
+
+## 📌 Goals
+- Build strong technical projects
+- Improve problem-solving skills
+- Learn cloud technologies (AWS / Azure)
