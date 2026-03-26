@@ -4,12 +4,6 @@
 💡 Interested in Cloud, DevOps, and Software Development
 
 
-## 💻 Interests
-- Cloud Computing
-- DevOps
-- Software Development
-
-
 ## 🚀 Currently Learning
 - Python
 - Linux & Bash
