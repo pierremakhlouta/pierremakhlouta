@@ -1,20 +1,23 @@
 # Hi, I'm Pierre 👋
 
 🎓 Computer Science Student @ York University  
-💡 Interested in Cloud, DevOps, and Software Development
+💡 Interested in Cloud, DevOps, and SRE, with a growing interest in security
 
 
 ## 🚀 Currently Learning
-- Python
-- Linux & Bash
-- Git & GitHub
+- SQL and data analytics
+- PowerShell and Windows Server (Active Directory, M365)
+- Python, Linux & Bash, Git
 
 
 ## 🛠️ Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ## 📌 Goals
