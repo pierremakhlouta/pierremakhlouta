@@ -24,7 +24,7 @@
 
 
 ## 📊 GitHub Stats
-![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierremakhlouta&show_icons=true&theme=dark)
+![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierremakhlouta&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 
 ## 🔗 Connect with me
