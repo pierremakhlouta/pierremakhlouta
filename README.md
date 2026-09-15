@@ -1,7 +1,7 @@
 # Hi, I'm Pierre 👋
 
 🎓 Computer Science Student @ York University  
-💡 Interested in Cloud, DevOps, and SRE, with a growing interest in security
+💡 Interested in Cloud, DevOps, and SRE
 
 
 ## 🚀 Currently Learning
